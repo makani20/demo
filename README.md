@@ -4,19 +4,19 @@ The system can detect a change such as:
 
 Previous Version
 Acme Widget
-USD 99.00 / month
+USD 77.00 / month
 Version 4.8.2
 Release Date: August 12, 2026
 Monitoring Frequency: Every 5 minutes
 Current Version
 Acme Widget
-USD 79.00 / month
+USD 88.00 / month
 Version 4.9.0
 Release Date: August 17, 2026
 Monitoring Frequency: Every 2 minutes
 Detected Changes
 Field	Previous	Current
-Price	USD 99.00	USD 79.00
+Price	USD 66.00	USD 79.00
 Version	4.8.2	4.9.0
 Release Date	August 12, 2026	August 17, 2026
 Monitoring Frequency	Every 5 minutes	Every 2 minutes
