@@ -29,7 +29,7 @@ Product Manager, Northstar Labs
 
 "The visual comparison feature is particularly useful when monitoring competitor landing pages."
 
-Daniel Carter
+Kishan Makani
 Growth Lead, BrightWorks
 
 Frequently Asked Questions
